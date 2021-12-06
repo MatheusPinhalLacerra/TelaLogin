@@ -36,11 +36,11 @@ input{
 }
 
 input.email{
-    background-image: url(img/icone-usuario.png);
+    background-image: url(../img/icone-usuario.png);
 }
 
 input.senha{
-    background-image: url(img/icone-senha.png);
+    background-image: url(../img/icone-senha.png);
 }
 
 input.submit{
